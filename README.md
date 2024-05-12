@@ -6,7 +6,7 @@ Certainly! Here's an example of README content you could include for your Temper
 
 This project is a simple Temperature Converter website developed using HTML, CSS, and JavaScript. The purpose of this web application is to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
-![Temperature Converter](demo.png)
+![Temperature Converter](DEMO.png)
 
 ## Features
 
